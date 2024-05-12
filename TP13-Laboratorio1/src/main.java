@@ -5,8 +5,14 @@ import java.util.logging.Logger;
 
 public class main {
 
-    /**
-     * @param args the command line arguments
+    /*
+    
+    Profe 
+    
+    Segun la operacion deseada ir comentando las lineas correspondientes
+    
+    El Script DB esta en la carpeta de laboratorio, no aparece en el proyecto pero esta 
+    si se busca en el explorador de archivos
      */
     public static void main(String[] args) {
 
